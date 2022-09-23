@@ -1,26 +1,29 @@
-% Videoclub «Los Pajaritos»
-% Ricardo Pérez
-% Curso 2021/22
+% wikiAquarium 
+% Daniel Gonzalez Garcia
+% Curso 2022/23
 
 # Descripción general del proyecto
 
-Explicar.
+Enciclopedia colaborativa sobre el mundo de la acuarofilia .
 
 ## Funcionalidad principal de la aplicación
 
-Explicar.
+La aplicación permite obtener información detallada de cada una de las especies que es posible
+mantener en un acuario doméstico. Formar parte, publicando tus propias fichas y 
+buscar información en el foro o añadir comentarios.
 
 ## Objetivos generales
 
-A diferencia de los casos de uso, los objetivos no tienen principio ni fin.
 
-Por ejemplo:
+* Objetivo: "Crear una wiki con ayuda de los usuarios".
+* Casos de uso: 
+          * Invitado: "registrarse", "buscar publicaciones" ,"Ver publicación" , "Ver foro","Realizar una búsqueda".
+	        * Usuario: "iniciar sesión", "cerrar sesión", "crear una publicación", "añadir comentario al foro", "".
+ 	        * Administrador: "iniciar sesión","cerrar sesión","Revisar ficha y publicarla","añadir y eliminar enlaces de interés","borrar comentarios","Bloquear usuario","Desbloquear usuario","Dar alta otros usuarios administradores".
 
-* Objetivo: "gestionar los alquileres y las devoluciones de las películas".
-* Casos de uso: "alquilar una película", "devolver una película".
+            
 
 # Elemento de innovación
 
-Aspecto, función o tecnología novedosa o innovadora no tratada directamente
-en clase y que será necesario investigar para desarrollar adecuadamente el
-Proyecto.
+Mostrar en un mapa, el hábitat natural (OpenStreetMap).
+
