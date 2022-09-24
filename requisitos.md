@@ -594,7 +594,7 @@
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | fácil         |
-| **Entrega**     | v2            |
+| **Entrega**     | v3            |
 
 
 | **R67**     | **Subir foto a la galería**         |
@@ -656,4 +656,35 @@
 | (**R35**) Diseño para varias resoluciones | Mínimo | Técnico | Fácil | v1 | 
 | (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 | 
 | (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | 
-| (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 | 
+| (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 |
+| (**R39**) Creación de migraciones | Importante | Técnico | Fácil | v1 | 
+| (**R40**) Rutas | Importante | Técnico | Fácil | v1 | 
+| (**R41**) Middleware | Importante | Técnico | Fácil | v1 | 
+| (**R42**) Creación de los modelos y sus relaciones | Importante | Técnico | Fácil | v1 | 
+| (**R43**) Creación de seeders | Importante | Técnico | Fácil | v1 | 
+| (**R44**) Crear Controladores | Importante | Técnico | Fácil | v1 | 
+| (**R45**) Login y registrar | Importante | Funcional | Fácil | v1 | 
+| (**R46**) Roles en usuarios | Mínimo | Técnico | Fácil | v1 | 
+| (**R47**) Cambiar roles | Mínimo | Funcional | Medio | v1 | 
+| (**R48**) Mostrar fichas para revisión | Mínimo | Técnico | Fácil | v1 | 
+| (**R49**) Formulario fichas | Mínimo | Técnico | Medio | v1 | 
+| (**R50**) Subir foto | Mínimo | Funcional | Medio | v1 | 
+| (**R51**) API de IFrame | Mínimo | Técnico | Medio | v1 | 
+| (**R52**) Buzón sugerencias | Mínimo | Funcional | Medio | v1 | 
+| (**R53**) Buzón administrador | Mínimo | Funcional | Medio | v1 | 
+| (**R54**) Borrar mensaje | Mínimo | Funcional | Medio | v1 | 
+| (**R55**) Logo | opcional | técnico | Medio | v2 | 
+| (**R56**) Mapa | Mínimo | Funcional | Medio | v1 | 
+| (**R57**) Buscador | Mínimo | Funcional | Medio | v1 | 
+| (**R58**) Ver publicaciones | Mínimo | Funcional | Medio | v2 | 
+| (**R59**) Ver publicaciones otros usuarios | Mínimo | Funcional | Medio | v2 | 
+| (**R60**) Mostrar foro | Mínimo | Funcional | Medio | v2 | 
+| (**R61**) Añadir comentario | Mínimo | Funcional | Medio | v2 | 
+| (**R62**) Enlaces de interés | Mínimo | Funcional | fácil | v2 | 
+| (**R63**) Administrar Enlaces de interés | Mínimo | Funcional | Medio | v2 | 
+| (**R64**) Borrar comentario | Mínimo | Funcional | fácil | v2 | 
+| (**R65**) Bloquear/desbloquear usuario | opcional | Funcional | Medio | v3 | 
+| (**R66**) Galería de fotos | Mínimo | Funcional | fácil | v3 | 
+| (**R67**) Subir foto a la galería | Mínimo | Funcional | Medio | v3 | 
+| (**R68**) Eliminar foto | Mínimo | Funcional | Medio | v3 | 
+
