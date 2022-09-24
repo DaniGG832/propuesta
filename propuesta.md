@@ -16,8 +16,9 @@ buscar información en el foro o añadir comentarios.
 
 
 * Objetivo: "Crear una wiki con ayuda de los usuarios".
-* Casos de uso: 
-          * Invitado: "registrarse", "buscar publicaciones" ,"Ver publicación" , "Ver foro","Realizar una búsqueda".
+* Casos de uso:
+ 
+                * Invitado: "registrarse", "buscar publicaciones" ,"Ver publicación" , "Ver foro","Realizar una búsqueda".
 	        * Usuario: "iniciar sesión", "cerrar sesión", "crear una publicación", "añadir comentario al foro", "".
  	        * Administrador: "iniciar sesión","cerrar sesión","Revisar ficha y publicarla","añadir y eliminar enlaces de interés","borrar comentarios","Bloquear usuario","Desbloquear usuario","Dar alta otros usuarios administradores".
 
