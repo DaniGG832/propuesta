@@ -343,6 +343,277 @@
 | **Entrega**     | v1             |
 
 
+| **R39**     | **Creación de migraciones**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear las migraciones.              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R40**     | **Rutas**         |
+| --------------: | :------------------- |
+| **Descripción** | Definir las rutas del sitio web.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R41**     | **Middleware**         |
+| --------------: | :------------------- |
+| **Descripción** | Implementar un Middleware.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+
+| **R42**     | **Creación de los modelos y sus relaciones**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear los modelos de cada tabla, con sus respectivas relaciones.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R43**     | **Creación de seeders**         |
+| --------------: | :------------------- |
+| **Descripción** | Insertar datos necesarios en las tablas.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R44**     | **Crear Controladores**         |
+| --------------: | :------------------- |
+| **Descripción** | Creación de controladores .              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | fácil         |
+| **Entrega**     | v1             |
+
+
+| **R45**     | **Login y registrar**         |
+| --------------: | :------------------- |
+| **Descripción** | Implementar login y registrar con laravel             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R46**     | **Roles en usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán disponer de los siguientes roles: administrador y usuario con diferentes privilegios.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Tecnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R47**     | **Cambiar roles**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador puede asignar roles.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R48**     | **Mostrar fichas para revisión**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador debe comprobar la ficha, antes de publicarla.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v1             |
+
+
+| **R49**     | **Formulario fichas**         |
+| --------------: | :------------------- |
+| **Descripción** | Formulario para que el usuario pueda crear una ficha.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R50**     | **Subir foto**         |
+| --------------: | :------------------- |
+| **Descripción** | El formulario permite agregar una foto para crear la ficha.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v1             |
+
+
+| **R51**     | **API de IFrame**         |
+| --------------: | :------------------- |
+| **Descripción** | Implementar iframe youtube (La ficha tendrá un video relacionado).             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v1             |
+
+
+| **R52**     | **buzón sugerencias**         |
+| --------------: | :------------------- |
+| **Descripción** | Formulario para comunicar alguna sugerencia o denuncia.             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v2             |
+
+
+| **R53**     | **buzón administrador**         |
+| --------------: | :------------------- |
+| **Descripción** | Mostrar mensajes del buzón.             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v2             |
+
+
+| **R54**     | **borrar mensaje**         |
+| --------------: | :------------------- |
+| **Descripción** | Borrar mensajes del buzón.             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v2             |
+
+
+
+| **R55**     | **Logo**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear e implementar un logo para el sitio web.             |
+| **Prioridad**   | opcional           |
+| **Tipo**        | tecnico                |
+| **Complejidad** | medio         |
+| **Entrega**     | v2             |
+
+
+| **R56*     | **Mapa**         |
+| --------------: | :------------------- |
+| **Descripción** | Implementar mapa (hábitat natural).             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v1             |
+
+
+| **R57*     | **Buscador**         |
+| --------------: | :------------------- |
+| **Descripción** | Implementar buscador de fichas.             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v1             |
+
+
+| **R58*     | **Ver publicaciones**         |
+| --------------: | :------------------- |
+| **Descripción** | Ver publicaciones en tu perfil.             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v2            |
+
+
+| **R59*     | **Ver publicaciones otros usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Ver publicaciones  de otros usuarios.             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v2            |
+
+
+| **R60*     | **Mostrar foro**         |
+| --------------: | :------------------- |
+| **Descripción** | Ver Foro relacionado con cada ficha.             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v2            |
+
+
+| **R61*     | **Añadir comentario**         |
+| --------------: | :------------------- |
+| **Descripción** | Publicar comentarios en el foro.             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v2            |
+
+
+| **R62*     | **Enlaces de interés**         |
+| --------------: | :------------------- |
+| **Descripción** | Ver página con enlaces de interés.             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | fácil         |
+| **Entrega**     | v2            |
+
+
+| **R63*     | **Administrar Enlaces de interés**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear/borrar enlaces de interés.             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v2            |
+
+
+| **R64*     | **Borrar comentario**         |
+| --------------: | :------------------- |
+| **Descripción** | Borrar comentario ( administrador) .             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | fácil         |
+| **Entrega**     | v2            |
+
+
+| **R65*     | **Bloquear/desbloquear usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Bloquear/desbloquear usuario para que no pueda comentar en el foro ( administrador) .             |
+| **Prioridad**   | opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v3            |
+
+
+| **R66*     | **Galería de fotos**         |
+| --------------: | :------------------- |
+| **Descripción** | Mostrar galería de fotos .             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | fácil         |
+| **Entrega**     | v2            |
+
+
+| **R67**     | **Subir foto a la galería**         |
+| --------------: | :------------------- |
+| **Descripción** | El usuario podrá añadir una foto a la galería.             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v3             |
+
+
+| **R68**     | **Eliminar foto**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá eliminar una foto de la galería.             |
+| **Prioridad**   | minimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | medio         |
+| **Entrega**     | v3             |
+
 
 ## Cuadro resumen
 
