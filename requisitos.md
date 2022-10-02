@@ -665,7 +665,7 @@
 | (**R44**) Crear Controladores | Importante | Técnico | Fácil | v1 | 
 | (**R45**) Login y registrar | Importante | Funcional | Fácil | v1 | 
 | (**R46**) Roles en usuarios | Mínimo | Técnico | Fácil | v1 | 
-| (**R47**) Cambiar roles | Mínimo | Funcional | Medio | v1 | 
+| (**R47**) Cambiar roles | Mínimo | Funcional | Media | v1 | 
 | (**R48**) Mostrar fichas para revisión | Mínimo | Técnico | Fácil | v1 | 
 | (**R49**) Formulario fichas | Mínimo | Técnico | Media | v1 | 
 | (**R50**) Subir foto | Mínimo | Funcional | Media | v1 | 
@@ -673,13 +673,13 @@
 | (**R52**) Buzón sugerencias | Mínimo | Funcional | Media | v1 | 
 | (**R53**) Buzón administrador | Mínimo | Funcional | Media | v1 | 
 | (**R54**) Borrar mensaje | Mínimo | Funcional | Media | v1 | 
-| (**R55**) Logo | opcional | técnico | Medio | v2 | 
-| (**R56**) Mapa | Mínimo | Funcional | Medio | v1 | 
+| (**R55**) Logo | opcional | técnico | Media | v2 | 
+| (**R56**) Mapa | Mínimo | Funcional | Media | v1 | 
 | (**R57**) Buscador | Mínimo | Funcional | Media | v1 | 
-| (**R58**) Ver publicaciones | Mínimo | Funcional | Medio | v2 | 
+| (**R58**) Ver publicaciones | Mínimo | Funcional | Media | v2 | 
 | (**R59**) Ver publicaciones otros usuarios | Mínimo | Funcional | Media | v2 | 
-| (**R60**) Mostrar foro | Mínimo | Funcional | Medio | v2 | 
-| (**R61**) Añadir comentario | Mínimo | Funcional | Medio | v2 | 
+| (**R60**) Mostrar foro | Mínimo | Funcional | Media | v2 | 
+| (**R61**) Añadir comentario | Mínimo | Funcional | Media | v2 | 
 | (**R62**) Enlaces de interés | Mínimo | Funcional | fácil | v2 | 
 | (**R63**) Administrar Enlaces de interés | Mínimo | Funcional | Media | v2 | 
 | (**R64**) Borrar comentario | Mínimo | Funcional | fácil | v2 | 
