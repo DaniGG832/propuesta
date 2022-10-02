@@ -430,7 +430,7 @@
 | **Descripción** | El administrador debe comprobar la ficha, antes de publicarla.             |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v1             |
 
 
@@ -448,7 +448,7 @@
 | **Descripción** | El formulario permite agregar una foto para crear la ficha.             |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v1             |
 
 
@@ -457,7 +457,7 @@
 | **Descripción** | Implementar iframe youtube (La ficha tendrá un video relacionado).             |
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v1             |
 
 
@@ -466,7 +466,7 @@
 | **Descripción** | Formulario para comunicar alguna sugerencia o denuncia.             |
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v2             |
 
 
@@ -475,7 +475,7 @@
 | **Descripción** | Mostrar mensajes del buzón.             |
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v2             |
 
 
@@ -484,7 +484,7 @@
 | **Descripción** | Borrar mensajes del buzón.             |
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v2             |
 
 
@@ -494,7 +494,7 @@
 | **Descripción** | Crear e implementar un logo para el sitio web.             |
 | **Prioridad**   | opcional           |
 | **Tipo**        | tecnico                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v2             |
 
 
@@ -503,7 +503,7 @@
 | **Descripción** | Implementar mapa (hábitat natural).             |
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v1             |
 
 
@@ -512,7 +512,7 @@
 | **Descripción** | Implementar buscador de fichas.             |
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v1             |
 
 
@@ -521,7 +521,7 @@
 | **Descripción** | Ver publicaciones en tu perfil.             |
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v2            |
 
 
@@ -530,7 +530,7 @@
 | **Descripción** | Ver publicaciones  de otros usuarios.             |
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v2            |
 
 
@@ -539,7 +539,7 @@
 | **Descripción** | Ver Foro relacionado con cada ficha.             |
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v2            |
 
 
@@ -548,7 +548,7 @@
 | **Descripción** | Publicar comentarios en el foro.             |
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v2            |
 
 
@@ -566,7 +566,7 @@
 | **Descripción** | Crear/borrar enlaces de interés.             |
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v2            |
 
 
@@ -584,7 +584,7 @@
 | **Descripción** | Bloquear/desbloquear usuario para que no pueda comentar en el foro ( administrador) .             |
 | **Prioridad**   | opcional           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v3            |
 
 
@@ -602,7 +602,7 @@
 | **Descripción** | El usuario podrá añadir una foto a la galería.             |
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v3             |
 
 
@@ -611,7 +611,7 @@
 | **Descripción** | El administrador podrá eliminar una foto de la galería.             |
 | **Prioridad**   | minimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | medio         |
+| **Complejidad** | Media         |
 | **Entrega**     | v3             |
 
 
@@ -667,24 +667,24 @@
 | (**R46**) Roles en usuarios | Mínimo | Técnico | Fácil | v1 | 
 | (**R47**) Cambiar roles | Mínimo | Funcional | Medio | v1 | 
 | (**R48**) Mostrar fichas para revisión | Mínimo | Técnico | Fácil | v1 | 
-| (**R49**) Formulario fichas | Mínimo | Técnico | Medio | v1 | 
-| (**R50**) Subir foto | Mínimo | Funcional | Medio | v1 | 
-| (**R51**) API de IFrame | Mínimo | Técnico | Medio | v1 | 
-| (**R52**) Buzón sugerencias | Mínimo | Funcional | Medio | v1 | 
-| (**R53**) Buzón administrador | Mínimo | Funcional | Medio | v1 | 
-| (**R54**) Borrar mensaje | Mínimo | Funcional | Medio | v1 | 
+| (**R49**) Formulario fichas | Mínimo | Técnico | Media | v1 | 
+| (**R50**) Subir foto | Mínimo | Funcional | Media | v1 | 
+| (**R51**) API de IFrame | Mínimo | Técnico | Media | v1 | 
+| (**R52**) Buzón sugerencias | Mínimo | Funcional | Media | v1 | 
+| (**R53**) Buzón administrador | Mínimo | Funcional | Media | v1 | 
+| (**R54**) Borrar mensaje | Mínimo | Funcional | Media | v1 | 
 | (**R55**) Logo | opcional | técnico | Medio | v2 | 
 | (**R56**) Mapa | Mínimo | Funcional | Medio | v1 | 
-| (**R57**) Buscador | Mínimo | Funcional | Medio | v1 | 
+| (**R57**) Buscador | Mínimo | Funcional | Media | v1 | 
 | (**R58**) Ver publicaciones | Mínimo | Funcional | Medio | v2 | 
-| (**R59**) Ver publicaciones otros usuarios | Mínimo | Funcional | Medio | v2 | 
+| (**R59**) Ver publicaciones otros usuarios | Mínimo | Funcional | Media | v2 | 
 | (**R60**) Mostrar foro | Mínimo | Funcional | Medio | v2 | 
 | (**R61**) Añadir comentario | Mínimo | Funcional | Medio | v2 | 
 | (**R62**) Enlaces de interés | Mínimo | Funcional | fácil | v2 | 
-| (**R63**) Administrar Enlaces de interés | Mínimo | Funcional | Medio | v2 | 
+| (**R63**) Administrar Enlaces de interés | Mínimo | Funcional | Media | v2 | 
 | (**R64**) Borrar comentario | Mínimo | Funcional | fácil | v2 | 
-| (**R65**) Bloquear/desbloquear usuario | opcional | Funcional | Medio | v3 | 
+| (**R65**) Bloquear/desbloquear usuario | opcional | Funcional | Media | v3 | 
 | (**R66**) Galería de fotos | Mínimo | Funcional | fácil | v3 | 
-| (**R67**) Subir foto a la galería | Mínimo | Funcional | Medio | v3 | 
-| (**R68**) Eliminar foto | Mínimo | Funcional | Medio | v3 | 
+| (**R67**) Subir foto a la galería | Mínimo | Funcional | Media | v3 | 
+| (**R68**) Eliminar foto | Mínimo | Funcional | Media | v3 | 
 
